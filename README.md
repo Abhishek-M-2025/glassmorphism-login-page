@@ -2,6 +2,8 @@
 
 A modern and stylish Login Page built using HTML and CSS with a beautiful glassmorphism effect.
 
+---
+
 ## 🚀 Features
 
 * 🔐 Username and Password fields
@@ -11,14 +13,16 @@ A modern and stylish Login Page built using HTML and CSS with a beautiful glassm
 * 🎨 Glassmorphism UI Design
 * 📱 Centered and clean layout
 
+---
+
 ## 🛠️ Technologies Used
 
 * HTML5
 * CSS3
 
-## 📸 Project Preview
+---
 
-<img width="1912" height="912" alt="Image" src="https://github.com/user-attachments/assets/7439aff1-3773-44e0-8cbb-c1b79caa1c9b" />
+## 📸 Project Preview
 
 This project demonstrates modern CSS concepts such as:
 
@@ -27,6 +31,12 @@ This project demonstrates modern CSS concepts such as:
 * Box Shadow
 * Custom Form Styling
 
+> Add your project screenshot here.
+
+---
+
 ## 👨‍💻 Author
 
 **Abhishek**
+
+---
