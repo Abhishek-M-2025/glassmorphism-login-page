@@ -27,10 +27,6 @@ This project demonstrates modern CSS concepts such as:
 * Box Shadow
 * Custom Form Styling
 
-![Project Screenshot](./screenshot.png)
-
-> Replace `screenshot.png` with your actual image file name.
-
 ## 👨‍💻 Author
 
 **Abhishek**
