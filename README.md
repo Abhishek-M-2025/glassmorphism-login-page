@@ -18,7 +18,7 @@ A modern and stylish Login Page built using HTML and CSS with a beautiful glassm
 
 ## 📸 Project Preview
 
-![Project Screenshot](./screenshot.png)
+<img width="1912" height="912" alt="Image" src="https://github.com/user-attachments/assets/7439aff1-3773-44e0-8cbb-c1b79caa1c9b" />
 
 This project demonstrates modern CSS concepts such as:
 
